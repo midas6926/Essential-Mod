@@ -172,23 +172,3 @@ you may then be able to find this version in the `loader` repository and build i
 Note that even though you found this file is in the `stage1` folder, it is the `stage2` of the loader (the reason it is
 in the `stage1` folder is because `stage1` loads it).
 
-## License
-
-Below, you'll find an outline of what is permitted and what is restricted under the source-available license of the
-Essential Mod's source code.
-
-**What you CAN do**
-
-- Audit the source code.
-- Compile the source code to confirm the authenticity of the official releases.
-- Create unmodified forks of the repository.
-
-**What you CANNOT do**
-
-- Utilize any code or assets, including for personal use.
-- Incorporate the source code in any other projects or use our code as a reference in new projects.
-- Modify or alter the source code provided here.
-- Distribute compiled versions of the source code or modified source code.
-
-This summary is not an exhaustive interpretation of the license; for a comprehensive understanding, please refer to [the
-full license file](https://github.com/EssentialGG/Essential/blob/main/LICENSE).
